@@ -1,0 +1,2 @@
+from MainMenuFonctions import AfficherMainMenu
+AfficherMainMenu()
